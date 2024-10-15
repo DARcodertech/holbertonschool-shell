@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 111 /holbertonschool-shell/permissions
+find ../. -type d -exec chmod 111
